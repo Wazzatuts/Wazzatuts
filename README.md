@@ -8,7 +8,7 @@
 
 </h2>
 
-<h6 align="center">
+<h5 align="center">
 
 | **Development Skills**                    	| **Frameworks** 	| Applications               	|
 |---------------------------------------	|------------	|----------------------------	|
@@ -19,7 +19,7 @@
 | 🗃️SQL \| MySQ                          	|            	| ⛵ Docker                   	|
 |                                       	|            	| ✉️ Postman                  	|
 
-</h6>
+</h5>
 
 
 For any **buisness enquires** please email **[Wayne Fellows](mailto:wayne@hotmail.co.uk?subject=[GitHub]%20Source%20Han%20Sans)**
