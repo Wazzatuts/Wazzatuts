@@ -10,7 +10,7 @@
 
 <h5 align="center">
 
-| **Development Skills**                    	| **Frameworks** 	| Applications               	|
+| <h2>**Development Skills**</h2>                    	| **Frameworks** 	| Applications               	|
 |---------------------------------------	|------------	|----------------------------	|
 | 🤖 API Development                     	| 🌋 Laravel  	| 🛹 Maya                     	|
 | 📟 PHP                                 	| 🎻 Symfony  	| 🕹️ Unreal Engine 4          	|
