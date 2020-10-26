@@ -8,6 +8,7 @@
 
 </h2>
 
+<align="center">
 
 | **Development Skills**                    	| **Frameworks** 	| Applications               	|
 |---------------------------------------	|------------	|----------------------------	|
