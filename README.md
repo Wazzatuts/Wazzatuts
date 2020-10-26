@@ -8,7 +8,7 @@
 
 </h2>
 
-<align="center">
+<h2 align="center">
 
 | **Development Skills**                    	| **Frameworks** 	| Applications               	|
 |---------------------------------------	|------------	|----------------------------	|
@@ -18,5 +18,7 @@
 | 🚧 HTML/HTML5/CSS/CSS3/SCSS/JavaScript 	| 🐤 Flutter  	| 🤓 Development Applications 	|
 | 🗃️SQL \| MySQ                          	|            	| ⛵ Docker                   	|
 |                                       	|            	| ✉️ Postman                  	|
+
+</h2>
 
 For any **buisness enquires** please email **[Wayne Fellows](mailto:wayne@hotmail.co.uk?subject=[GitHub]%20Source%20Han%20Sans)**
