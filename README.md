@@ -22,4 +22,4 @@
 </h5>
 
 
-For any **buisness enquires** please email **[Wayne Fellows](mailto:wayne@hotmail.co.uk?subject=[GitHub]%20Source%20Han%20Sans)**
+For any **buisness enquires** please email **[Wayne Fellows](mailto:wayne.fellows@hotmail.co.uk?subject=[GitHub]%20Source%20Han%20Sans)**
